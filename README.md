@@ -1,4 +1,4 @@
-# Quantum-Teleporattion-
+# Quantum-Teleportation-
 Implementation of the Quantum teleportation algorithm. 
 
 Here we will try to teleport $$\sqrt{0.70}\vert0\rangle + \sqrt{0.30}\vert1\rangle$$ from Alice's qubit to Bob's qubit. 
